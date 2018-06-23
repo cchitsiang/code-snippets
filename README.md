@@ -4,7 +4,7 @@
 
 My own code snippets collected to supercharge my coding activity
 
-{% page-ref page="swift.md" %}
+* [Swift](/swift.md)
 
 ## Credits
 
