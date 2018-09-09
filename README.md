@@ -4,6 +4,7 @@
 
 My own code snippets collected to supercharge my coding activity
 
+* [.NET](/dotnet.md)
 * [Swift](/swift.md)
 
 ## Credits
